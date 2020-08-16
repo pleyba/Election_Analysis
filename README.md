@@ -23,7 +23,7 @@ This is an election audit for a congressional election performed for the Colorad
 
 #### Election Results
 
-#####Total Votes: 369,711
+##### Total Votes: 369,711
 
 -------------------------
 
@@ -34,7 +34,7 @@ Arapahoe: 6.7% (24,801)
 
 -------------------------
 
-#####Largest County Turnout:
+##### Largest County Turnout:
 
 Denver
 
